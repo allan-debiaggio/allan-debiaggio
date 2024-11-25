@@ -1,10 +1,18 @@
+# About Me :bowtie: :
 - 👋 Hi, I’m @allan-debiaggio !
-- 👀 I’m interested (mostly) in Computer Science, Music and Videogames.
-- 🌱 I’m currently learning Software Development.
-- 💞️ I’m looking to collaborate on everything that can improve my skills.
-- 📫 How to reach me : nallans.pro@gmail.com
-- 😄 Pronouns: He / Him.
-- ⚡ Fun fact: Favorite and most inspiring tech wizard : John Carmack.
+- 👀 Interested (mostly) in Computer Science 💻, Music 🎶 and Videogames 🎮
+- 💼 Worked 3 years in a computer retail shop 🔧
+- 🌱 Currently learning Software Development 👓 
+- 💞️ Looking to collaborate on everything that can improve my skills.
+- 📧 How to reach me : allan.de-biaggio@laplateforme.io
+- ⚡ Fun fact: Favorite and most inspiring tech wizard : John Carmack :godmode:
+
+## 🏭 Last projects : 
+[TicTacToe](https://github.com/allan-debiaggio/Tictactoe/tree/Allan)
+[Fansite](https://github.com/allan-debiaggio/Fansite/tree/Allan)
+
+## 🚀 Links :
+[LinkedIn profile](www.linkedin.com/in/allan-de-biaggio-b7125a337)
 
 <!---
 allan-debiaggio/allan-debiaggio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
