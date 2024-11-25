@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Favorite and most inspiring tech wizard : John Carmack :godmode:
 
 ## 🏭 Last projects : 
-[TicTacToe](https://github.com/allan-debiaggio/Tictactoe/tree/Allan)
+[TicTacToe](https://github.com/allan-debiaggio/Tictactoe/tree/Allan)  
 [Fansite](https://github.com/allan-debiaggio/Fansite/tree/Allan)
 
 ## 🚀 Links :
