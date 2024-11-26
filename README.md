@@ -30,6 +30,7 @@
 ## 🚀 Links :
 🔗 [LinkedIn profile](www.linkedin.com/in/allan-de-biaggio-b7125a337)
 
+![snake gif](https://github.com/allan-debiaggio/allan-debiaggio/blob/output/github-snake-dark.svg)
 <!---
 allan-debiaggio/allan-debiaggio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
