@@ -1,9 +1,9 @@
-# About Me :bowtie: :
+# :bowtie: About Me :
 - 👋 Hi, I’m @allan-debiaggio !  
 - 👀 Interested (mostly) in Computer Science 💻, Music 🎶 and Videogames 🎮  
 - 💼 Worked 3 years in a computer retail shop 🔧  
 - 🌱 Currently learning Software Development 👓  
-- 💞️ Looking to collaborate on everything that can improve my skills.  
+- 📑 Looking to collaborate on everything that can improve my skills.  
 - 📧 How to reach me : allan.de-biaggio@laplateforme.io  
 - ⚡ Fun fact : Favorite and most inspiring tech wizard : John Carmack :godmode:  
 
