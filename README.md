@@ -1,4 +1,4 @@
-!()[banner.gif]
+!(banner)[banner.gif]
 # :bowtie: About Me :
 - 👋 Hi, I’m @allan-debiaggio !  
 - 👀 Interested (mostly) in Computer Science 💻, Music 🎶 and Videogames 🎮  
