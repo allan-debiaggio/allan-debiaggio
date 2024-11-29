@@ -1,4 +1,4 @@
-!(banner)[banner.gif]
+!(banner)[(https://github.com/allan-debiaggio/allan-debiaggio/blob/main/Banner.gif)]
 # :bowtie: About Me :
 - 👋 Hi, I’m @allan-debiaggio !  
 - 👀 Interested (mostly) in Computer Science 💻, Music 🎶 and Videogames 🎮  
