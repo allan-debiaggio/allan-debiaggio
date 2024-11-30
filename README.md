@@ -29,7 +29,7 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
 ## 🚀 Links :
-🔗 [LinkedIn profile](www.linkedin.com/in/allan-de-biaggio-b7125a337)
+🔗 [LinkedIn profile](https://www.linkedin.com/in/allan-de-biaggio-b7125a337/)
 
 ![snake gif](https://github.com/allan-debiaggio/allan-debiaggio/blob/output/github-snake-dark.svg)
 <!---
