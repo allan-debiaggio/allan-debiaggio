@@ -5,7 +5,7 @@
 - 💼 Worked 3 years in a computer retail shop 🔧  
 - 🌱 Currently learning Software Development 👓  
 - 📈 Looking to collaborate on everything that can improve my skills.  
-- 📧 How to reach me : allan.de-biaggio@laplateforme.io  
+- 📧 How to reach me : nallans.pro@gmail.com  
 - ⚡ Fun fact : Favorite and most inspiring tech wizard : John Carmack :godmode:  
 
 ## 🏭 Last projects : 
